@@ -3,7 +3,6 @@
 <!-- Dynamic Typing Header Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Md+Hasibul+Hasan+Khondaker;Full-Stack+%26+Mobile+Software+Engineer;Flutter+%7C+React+%7C+Node.js+%7C+Firebase;Building+High-Performance+Digital+Products" alt="Typing SVG" />
 
-<h1 align="center">Md Hasibul Hasan Khondaker</h1>
 <p align="center">
   <b>Full-Stack & Cross-Platform Mobile Engineer</b> • <i>Passionate about Crafting Scalable Apps & Great User Experiences</i>
 </p>
