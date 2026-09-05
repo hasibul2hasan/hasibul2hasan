@@ -136,6 +136,5 @@
 <img src="https://komarev.com/ghpvc/?username=hasibul2hasan&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 <br/>
-<sub><i>Crafted with ❤️ by <a href="https://github.com/hasibul2hasan">Md Hasibul Hasan Khondaker</a></i></sub>
 
 </div>
